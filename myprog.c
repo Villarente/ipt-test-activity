@@ -1,6 +1,8 @@
 #include <stdio.h>
+
 int main() {
-  printf("Hello, world!");
-  printf("Im Fang!")
+
+  printf("Hello, Dae!");
+  printf("Im Anne!")
   return 0;
 }
