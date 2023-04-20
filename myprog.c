@@ -2,7 +2,7 @@
 
 int main() {
 
-  printf("Hello, Dae!");
-  printf("Im Anne!")
+  printf("Hello, Shee!");
+  printf("Im Jhey Em!")
   return 0;
 }
