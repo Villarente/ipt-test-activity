@@ -1,4 +1,6 @@
 #include <stdio.h>
 int main() {
-  printf("Hello, Git!");
+  printf("Hello, world!");
+  printf("Im Fang!")
+  return 0;
 }
